@@ -90,3 +90,11 @@ so it runs the same way on any computer or cloud server.
 Beginner summary: think of Docker as a shipping container for your code.
 
 **Next:** [Experiment Tracking →](../04_Experiment_Tracking/README.md)
+
+## Practical Example
+
+This repository also includes beginner-friendly MLOps project examples and deployment workflows.
+
+Reference Project:
+- Post Mortem Intelligence
+- https://github.com/Sampada-23-00/Post-Mortem-Intelligence
