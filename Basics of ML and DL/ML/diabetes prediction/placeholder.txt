@@ -1,0 +1,16 @@
+# Diabetes Prediction Project
+
+This folder contains a comparative machine learning workflow for predicting diabetes using the standard **Pima Indians Diabetes Dataset**.
+
+## Workflow Overview
+- **Data Preprocessing:** Handling hidden missing values (`0`s) by replacing them with column medians.
+- **Exploratory Data Analysis (EDA):** Feature distribution checks and correlation heatmap plotting.
+- **Models Implemented:** - Decision Tree Classifier
+  - Random Forest Classifier (Ensemble Approach)
+- **Evaluation:** Side-by-side performance metrics comparison (Confusion Matrix & Accuracy analysis).
+
+## Tech Stack
+- Python
+- Scikit-learn
+- Pandas & NumPy
+- Matplotlib & Seaborn
